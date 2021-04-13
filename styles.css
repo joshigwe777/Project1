@@ -103,6 +103,10 @@ header .profile-image:hover {
 .card:hover {
   border-color: #ff99ff;
 }
+.blacknwhite{
+  border-radius: 2px;
+  border-color: black;
+}
 
 ul.skills {
   padding: 0;
@@ -170,6 +174,25 @@ a.social:hover {
 }
 .section-name {
   text-align: center;
+}
+.Hobbies {
+  text-align: center;
+}
+
+.HobbyList li {
+  border-radius: 6px;
+  display: inline-block;
+  background: #0399ff;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+a.hobbylink{
+  color: white;
+}
+
+a.hobbylink:hover{
+  opacity: .5;
 }
 
 /* Styles for larger screens */
