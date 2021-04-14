@@ -195,6 +195,7 @@ a.hobbylink:hover{
   opacity: .5;
 }
 
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
